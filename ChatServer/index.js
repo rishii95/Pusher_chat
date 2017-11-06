@@ -13,6 +13,16 @@ const Pusher = require('pusher');
  const pusherClient = new Pusher(pusherConfig);
 
  const app = express(); // (2)
+ 
+ pusherClient.notify(['donuts'], {
+    fcm: {
+      notification: {
+        title: "hello world",
+        icon: "androidlogo"
+      }
+    }
+  });
+
  app.use(bodyParser.json());
 
  app.put('/users/:name', function(req, res) { // (3)

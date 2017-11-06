@@ -14,11 +14,15 @@ import {
     StatusBar,
     FlatList,
     Image,
+    Platform
   } from 'react-native';
   import Pusher from 'pusher-js/react-native';
   import pusherConfig from '../../ChatServer/pusher.json';
   import ChatView from'./ChatView.js'
 
+  import RNPusherPushNotifications from 'react-native-pusher-push-notifications';
+
+  
 function mapStateToProps(state, props) {
   return {
     user:state.userReducers.userLoggedIn,
@@ -52,7 +56,37 @@ function mapDispatchToProps(dispatch){return bindActionCreators(Actions,dispatch
 //     }
 //   }
 //   export default connect(mapStateToProps,mapDispatchToProps)(ProfileScreen);
+const interest = "donuts";
 
+// Set your app key and register for push
+RNPusherPushNotifications.setAppKey("935acc7a384edda7cfe8");
+
+if (Platform.OS === 'ios') {
+  // iOS must wait for rego
+  RNPusherPushNotifications.on('registered', initInterests)
+} else {
+  // Android is immediate
+  initInterests()
+}
+
+function initInterests() {
+    // Subscribe to push notifications
+    if (Platform.OS === 'ios') {
+        // iOS callbacks are beta, so dont use them
+        RNPusherPushNotifications.subscribe(interest);
+    } else {
+        // Android is better, so handle faults
+        RNPusherPushNotifications.subscribe(
+            interest,
+            (error) => {
+                console.error(error);
+            },
+            (success) => {
+                console.log(success);
+            }
+        );
+    }
+}
 class ProfileScreen extends React.Component {
     // Nav options can be defined as a function of the screen's props:
     // static navigationOptions = ({ navigation }) => ({

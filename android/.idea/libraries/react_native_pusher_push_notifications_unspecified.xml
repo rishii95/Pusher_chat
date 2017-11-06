@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="react-native-pusher-push-notifications-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/chatapp/react-native-pusher-push-notifications/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/chatapp/react-native-pusher-push-notifications/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, TextInput, FlatList, KeyboardAvoidingView,View ,Button} from 'react-native';
-import { Constants } from 'expo';
+// import { Constants } from 'expo';
 
 export default class ChatView extends React.Component {
   constructor(props) {
@@ -64,8 +64,8 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'flex-start',
-    justifyContent: 'flex-start',
-    paddingTop: Constants.statusBarHeight
+    justifyContent: 'flex-start'
+    // paddingTop: Constants.statusBarHeight
   },
   messages: {
     alignSelf: 'stretch'

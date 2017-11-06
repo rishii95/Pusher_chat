@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.5_fdaac7a8425bbbca944cef697be8b7ad6d14b25c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_85c72c7253d5ae10f77d5be1646dda1c8d7cfab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6cc7f0adf5f1537b06e063b811a4024cf530ed6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fe111c023c92d7f9ddc1009cc05f5beeed0bf851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4ede42556508abfccfec33294c10b11ed67a2182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_d28e6c64a61b5d934f173e78057a6f64e7493f73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.5_a20ebda5462e58da2c6854741e5c00f67d087261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.pusher/pusher-java-client/1.5.0/eecf30fd008bd0df402737fcbd052722178769a/pusher-java-client-1.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0eecf30fd008bd0df402737fcbd052722178769a">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/pusher-java-client-1.5.0_496aed5b729c08affff426f304c4b509f44a3551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b6f52f17818b6cca7bfd66d86f5a200b5a6daccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2354c4ce37df9867b8e690cb6911e2b6215ab552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_6bef82cc6c951c75676992034b31b7b64c39299f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_46acf8ba57b9334ca17eeb267894d2b30c2aeb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_946eb5288da896a75041b1a4d7ea6757624c10ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_7531a0bbff1490641e39d4b7bff1cda80de95938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/gson-2.2.2_9105276c49916aa39d95f624f84fe6d62c98ced9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_7c46e9212e188f2a0cc4ce4531488ec31cfa08e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_185280b7bec7c48f48667d1cd267b32435b22498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_b506134ca321e5096b711701ffb3be884322441c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_48aebf291ed13938d85c4f090b5e93d0e4c81ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_ea692c15207d7ee973ad580521dcd7e20492101c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_61315e271a0aed31fc13cc2658af62a9fa8123ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_ef5d02f4c6a151b33c9b58c8b35f0511ae813353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_89a7984c5191a37b16e662ed1e99e6188a4a65ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/chatapp/react-native-pusher-push-notifications/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="96cd8123c37466a696a442dbe5218734b628bb32">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/chatapp-react-native-pusher-push-notifications-unspecified_15c291728b0ced11c03bb9672e92ab56588cc254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.pusher/java-websocket/1.4.1/6021a3f6aac1feb586bc7898685e9a72bd1986d3/java-websocket-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6021a3f6aac1feb586bc7898685e9a72bd1986d3">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/java-websocket-1.4.1_4e4153f4ffa0f6d91ca303a57fc4d1ed321f2553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.8.0_b5c3b7369edf68e61aa340a2cac574048748da82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_37271be9927d19ac1d2af16231f3aef722ccfcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f7d1f3870295f64e0fb685352fe7b1c5437778c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_8f09f7e25d210a768ecbd5e3b8ab43067009f4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1048c020f86d03a6a0faa2bf735d8cbc4f77743e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_a2d37fd1c7c31976a8c31f3831c9f0845c9c8605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.pusher/pusher-websocket-android/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ce4963406298064fe46934dc7c70c4618eeb1f4">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.pusher-pusher-websocket-android-0.6.0_6843e8f0dc30fac034de4466976c887da1fb6885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f9691d6df67851e95ab4b4236f6e212c970ff5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_37e8b507415480e95797fab8d3271e296379cadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_8fcf483c7dcdef91efff6da28d66963002f7cc8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/hashedin/projects/Pusher_chat/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_8e148a5171f9dda700f107081c24e96c9c444080.jar" />
+    </item>
+
+</items>
